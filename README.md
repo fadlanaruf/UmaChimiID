@@ -38,7 +38,8 @@ This project would not be possible without the support of these creators & the c
 
 ## 📥 How to Use
 Currently under development with ongoing language changes.  
-Installation and testing are still **manual**.  
+Installation and testing here [Here](./Bahan-ID.md)
+
 
 ---
 
@@ -51,3 +52,4 @@ Feel free to open a **Pull Request** or start a discussion in **Issues**.
 ## 📜 License
 (This project is not officially affiliated with Cygames.  
 Use responsibly. You can add license details here.)
+
